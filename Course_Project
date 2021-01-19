@@ -1,0 +1,6 @@
+For this project, aspects of Computer-Vision were integrated into an ANET 3D-Printer 
+to establish some functionalities such as; Detecting centroids & edges of objects and 
+converting the pixel locations into metric coordinates that can be sent to the 3D-Printer,
+detecting shapes and color of objects on the 3D-printer-bed (build-plate), real-time detecting 
+of printer motions (to give information about operation of the printer). A 3D-touch sensor was 
+also incorporated for better Z-axis calibration, and Automatic bed levelling.
